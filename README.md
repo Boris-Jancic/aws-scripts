@@ -2,7 +2,7 @@
 Usefull scripts for shortening manual labour with AWS API
 
 
-## ses-email-uploader
+## [ses-email-uploader](https://github.com/Boris-Jancic/aws-scripts/blob/main/ses-email-uploader.sh)
 If your application relies hevily on AWS SES you will probobaly find yourself in a position where you update the email template files often.
 Knowing & experiencing this i created this script which will automatically use the awscli to upload/replace email templates from a specified directory.
 
